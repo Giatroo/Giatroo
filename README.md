@@ -2,10 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://www.linkedin.com/in/lucas-paiolla/)](https://github.com/Giatroo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-paiolla/)](https://www.linkedin.com/in/lucas-paiolla/)
-
-[![Visits Badge](https://badges.pufler.dev/visits/Giatroo/Giatroo)](#)
 ![Profile views](https://gpvc.arturio.dev/Giatroo)
-[![Updated Badge](https://badges.pufler.dev/updated/Giatroo/Giatroo)](#)
 ![Last update](https://img.shields.io/github/last-commit/Giatroo/Giatroo)
 
 - 📚 Computer Science student at IME-USP, Brazil.
