@@ -2,8 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://www.linkedin.com/in/lucas-paiolla/)](https://github.com/Giatroo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-paiolla/)](https://www.linkedin.com/in/lucas-paiolla/)
-[![Visits
-Badge](https://badges.pufler.dev/visits/Giatroo/Giatroo)](https://github.com/Giatroo)
+[![Visits Badge](https://badges.pufler.dev/visits/Giatroo/Giatroo)](https://github.com/Giatroo)
 [![Updated Badge](https://badges.pufler.dev/updated/Giatroo/Giatroo)](https://github.com/Giatroo)
 
 - 📚 Computer Science student at IME-USP, Brazil.
@@ -12,6 +11,7 @@ Badge](https://badges.pufler.dev/visits/Giatroo/Giatroo)](https://github.com/Gia
 - ⚡ Techs: C/C++, Python, Vim, LaTeX.
 
 #### 📊 This Week I Spent My Time On:
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
