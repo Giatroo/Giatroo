@@ -10,6 +10,11 @@
 - 🤔 Why Giatro? That's the username I use in the internet.
 - ⚡ Techs: C/C++, Python, Vim, LaTeX.
 
+#### ⚡ Recent Activity on Github:
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 #### 📊 This Week I Spent My Time On:
 
 <!--START_SECTION:waka-->
