@@ -25,7 +25,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   1 hr 20 mins    █████████████████████▓░░░   86.47 % 
+Bash       11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+tmux       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 ```
 <!--END_SECTION:waka-->
 
