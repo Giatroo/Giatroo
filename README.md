@@ -11,7 +11,7 @@
 - ⚡ Techs: C/C++, Python, Vim, LaTeX.
 - 💻 My configs: [here](https://github.com/Giatroo/cfgs)
 
-#### ⚡ Recent Activity on Github:
+#### ⏳ Recent Activity on Github:
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#9707](https://github.com/google/it-cert-automation-practice/pull/9707) in [google/it-cert-automation-practice](https://github.com/google/it-cert-automation-practice)
@@ -29,6 +29,6 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-#### My Github Status
+#### 🚀 My Github Status
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Giatroo&?count_private=true&show_icons=true&theme=onedark)](#)
