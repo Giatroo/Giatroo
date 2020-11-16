@@ -9,6 +9,7 @@
 - 🌱 I'm learning Python Data Science tools like Pandas and TensorFlow.
 - 🤔 Why Giatro? That's the username I use in the internet.
 - ⚡ Techs: C/C++, Python, Vim, LaTeX.
+- 💻 My configs: [here](https://github.com/Giatroo/cfgs)
 
 #### ⚡ Recent Activity on Github:
 
