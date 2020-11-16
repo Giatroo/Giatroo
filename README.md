@@ -32,3 +32,5 @@ No Activity tracked this Week
 #### 🚀 My Github Status
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Giatroo&?count_private=true&show_icons=true&theme=onedark)](#)
+
+###### Last Update: 16/11/2020
