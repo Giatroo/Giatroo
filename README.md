@@ -2,7 +2,6 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://www.linkedin.com/in/lucas-paiolla/)](https://github.com/Giatroo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-paiolla/)](https://www.linkedin.com/in/lucas-paiolla/)
-[![Kaggle Badge](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png)](https://www.kaggle.com/giatro)  
 ![Profile views](https://gpvc.arturio.dev/Giatroo)
 ![Last update](https://img.shields.io/github/last-commit/Giatroo/Giatroo)
 
