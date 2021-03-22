@@ -2,13 +2,14 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://www.linkedin.com/in/lucas-paiolla/)](https://github.com/Giatroo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-paiolla/)](https://www.linkedin.com/in/lucas-paiolla/)
+[![Kaggle Badge](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png)](https://www.kaggle.com/giatro)  
 ![Profile views](https://gpvc.arturio.dev/Giatroo)
 ![Last update](https://img.shields.io/github/last-commit/Giatroo/Giatroo)
 
 - 📚 Computer Science student at IME-USP, Brazil.
 - 🌱 I'm learning Python Data Science tools like Pandas and TensorFlow.
 - 🤔 Why Giatro? That's the username I use in the internet.
-- ⚡ Techs: C/C++, Python, Vim, zsh, tmux, LaTeX.
+- ⚡ Fav Techs: nvim, zsh, tmux, python, pandas, sklearn, matplotlib, LaTeX, C/C++
 - 💻 My configs: [here](https://github.com/Giatroo/cfgs)
 
 #### ⏳ Recent Activity on Github:
@@ -37,4 +38,4 @@ VimL         3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Giatroo&?count_private=true&show_icons=true&theme=onedark)](#)
 
-###### Last Update: 16/11/2020
+###### Last Update: 22/03/2021
