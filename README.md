@@ -8,7 +8,7 @@
 - 📚 Computer Science student at IME-USP, Brazil.
 - 🌱 I'm learning Python Data Science tools like Pandas and TensorFlow.
 - 🤔 Why Giatro? That's the username I use in the internet.
-- ⚡ Fav Techs: nvim, zsh, tmux, python, pandas, sklearn, matplotlib, LaTeX, C/C++
+- ⚡ Fav Techs: nvim, zsh, tmux, python, pandas, sklearn, matplotlib, seaborn, LaTeX, C/C++
 - 💻 My configs: [here](https://github.com/Giatroo/cfgs)
 
 #### ⏳ Recent Activity on Github:
@@ -39,4 +39,4 @@ INI     2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Giatroo&?count_private=true&show_icons=true&theme=onedark)](#)
 
-###### Last Update: 22/03/2021
+###### Last Manual Update: 18/04/2021
