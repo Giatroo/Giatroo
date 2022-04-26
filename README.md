@@ -26,10 +26,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 April 2022 - To: 24 April 2022
+From: 18 April 2022 - To: 25 April 2022
 
-JSON       3 hrs 24 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.47 %
-Other      3 hrs 17 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.14 %
+JSON       3 hrs 38 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.10 %
+Other      3 hrs 17 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.05 %
 ```
 
 <!--END_SECTION:waka-->
