@@ -28,4 +28,4 @@ Text     0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Giatroo&?count_private=true&show_icons=true&theme=onedark)](#)
 
-###### Last Manual Update: 18/04/2021
+###### Last Manual Update: 08/04/2022
