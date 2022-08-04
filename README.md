@@ -11,16 +11,6 @@
 - ⚡ Fav Techs: nvim, zsh, tmux, python, pandas, sklearn, matplotlib, seaborn, LaTeX, C/C++
 - 💻 My configs: [here](https://github.com/Giatroo/cfgs)
 
-#### ⏳ Recent Activity on Github:
-
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#156](https://github.com/lambdalisue/jupyter-vim-binding/issues/156) in [lambdalisue/jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)
-2. 🗣 Commented on [#156](https://github.com/lambdalisue/jupyter-vim-binding/issues/156) in [lambdalisue/jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)
-3. ❗️ Opened issue [#156](https://github.com/lambdalisue/jupyter-vim-binding/issues/156) in [lambdalisue/jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)
-4. 💪 Opened PR [#9707](https://github.com/google/it-cert-automation-practice/pull/9707) in [google/it-cert-automation-practice](https://github.com/google/it-cert-automation-practice)
-5. ❗️ Opened issue [#8177](https://github.com/timburgan/timburgan/issues/8177) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-<!--END_SECTION:activity-->
-
 #### 📊 This Week I Spent My Time On:
 
 <!--START_SECTION:waka-->
