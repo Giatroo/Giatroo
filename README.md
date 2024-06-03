@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 May 2024 - To: 01 June 2024
+From: 26 May 2024 - To: 02 June 2024
 
 Bash       2 hrs 25 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀   79.10 %
 zsh        31 mins         ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.24 %
